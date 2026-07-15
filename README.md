@@ -29,6 +29,5 @@ I am a **Biotechnology student** at the University of Chemistry and Technology, 
 
 ---
 
-## 📫 Contact
-* **Email:** [your.email@example.com]
-* **LinkedIn:** [Your LinkedIn Profile]
+
+
